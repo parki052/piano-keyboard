@@ -1,0 +1,14 @@
+C:\Repos\PianoKeyboard\PianoKeyboard\bin\Release\PianoKeyboard.exe.config
+C:\Repos\PianoKeyboard\PianoKeyboard\bin\Release\PianoKeyboard.exe
+C:\Repos\PianoKeyboard\PianoKeyboard\bin\Release\PianoKeyboard.pdb
+C:\Repos\PianoKeyboard\PianoKeyboard\obj\Release\PianoKeyboard.csprojResolveAssemblyReference.cache
+C:\Repos\PianoKeyboard\PianoKeyboard\obj\Release\PianoKeyboard.csproj.CoreCompileInputs.cache
+C:\Repos\PianoKeyboard\PianoKeyboard\obj\Release\PianoKeyboard.exe
+C:\Repos\PianoKeyboard\PianoKeyboard\obj\Release\PianoKeyboard.pdb
+C:\Repos\kellen-parkinson-individual-work\PianoKeyboard\PianoKeyboard\bin\Release\PianoKeyboard.exe.config
+C:\Repos\kellen-parkinson-individual-work\PianoKeyboard\PianoKeyboard\bin\Release\PianoKeyboard.exe
+C:\Repos\kellen-parkinson-individual-work\PianoKeyboard\PianoKeyboard\bin\Release\PianoKeyboard.pdb
+C:\Repos\kellen-parkinson-individual-work\PianoKeyboard\PianoKeyboard\obj\Release\PianoKeyboard.csprojResolveAssemblyReference.cache
+C:\Repos\kellen-parkinson-individual-work\PianoKeyboard\PianoKeyboard\obj\Release\PianoKeyboard.csproj.CoreCompileInputs.cache
+C:\Repos\kellen-parkinson-individual-work\PianoKeyboard\PianoKeyboard\obj\Release\PianoKeyboard.exe
+C:\Repos\kellen-parkinson-individual-work\PianoKeyboard\PianoKeyboard\obj\Release\PianoKeyboard.pdb

@@ -1,0 +1,7 @@
+C:\Repos\PianoKeyboard\PianoKeyboard\bin\Debug\PianoKeyboard.exe.config
+C:\Repos\PianoKeyboard\PianoKeyboard\bin\Debug\PianoKeyboard.exe
+C:\Repos\PianoKeyboard\PianoKeyboard\bin\Debug\PianoKeyboard.pdb
+C:\Repos\PianoKeyboard\PianoKeyboard\obj\Debug\PianoKeyboard.csprojResolveAssemblyReference.cache
+C:\Repos\PianoKeyboard\PianoKeyboard\obj\Debug\PianoKeyboard.csproj.CoreCompileInputs.cache
+C:\Repos\PianoKeyboard\PianoKeyboard\obj\Debug\PianoKeyboard.exe
+C:\Repos\PianoKeyboard\PianoKeyboard\obj\Debug\PianoKeyboard.pdb
